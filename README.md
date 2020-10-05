@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<p align="center"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=NamWoo&show_icons=true" alt="=NamWoo" />&nbsp;
+&nbsp;
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamWoo&layout=compact" /><p/>
+
+
 <!--
 **NamWoo/NamWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
