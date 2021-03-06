@@ -7,7 +7,7 @@ I'm a `Embedded Machine Learning Developer` working at ![EXIS](https://img.shiel
 ### Goals for 2021
 #### *Find myself*
 
-`T`자형 인재로 나를 표현한다고 할 때, 나의 `T`의 `I`는 어느 부분이고 `ㅡ`는 어느 부분인지, 그리고 `T`자형에서 `I`자를 어떻게 두껍게 가져갈지 생각해보고 정의해보기.
+>>> `T`자형 인재로 나를 표현한다고 할 때, 나의 `T`의 `I`는 어느 부분이고 `ㅡ`는 어느 부분인지, 그리고 `T`자형에서 `I`자를 어떻게 두껍게 가져갈지 생각해보고 정의해보기.
 
 [생각정리--](https://github.com/NamWoo/NamWoo/blob/master/doc/findmyself.md)
 
