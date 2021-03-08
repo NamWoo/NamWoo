@@ -11,7 +11,7 @@ I'm a `Embedded Machine Learning Developer` working at ![EXIS](https://img.shiel
 
 * 캐글 마스터 달고파
 * 제발 영어... 중국어랑 독일어는..?
-* 
+* 석사
 
 [생각정리--](https://github.com/NamWoo/NamWoo/blob/master/doc/findmyself.md)
 
