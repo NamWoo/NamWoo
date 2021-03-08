@@ -9,7 +9,7 @@ I'm a `Embedded Machine Learning Developer` working at ![EXIS](https://img.shiel
 
 >>> `T`자형 인재로 나를 표현한다고 할 때, 나의 `T`의 `I`는 어느 부분이고 `ㅡ`는 어느 부분인지, 그리고 `T`자형에서 `I`자를 어떻게 두껍게 가져갈지 생각해보고 정의해보기.
 
-* 캐글 마스터 달고파
+* [캐글 마스터 달고파](https://www.kaggle.com/rankings)
 * 제발 영어... 중국어랑 독일어는..?
 * [대학원](https://omscs.gatech.edu/specialization-computational-perception-robotics)
 
