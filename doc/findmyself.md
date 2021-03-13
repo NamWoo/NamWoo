@@ -1,7 +1,7 @@
 # 일단 막 쓰기
 ## Languages
 
-### Tongue
+### Tongue  
 * 주 사용 언어 - `한국어`
 * 배워놓고(=돈발라놓고) 안 쓰는 언어 - `중국어`(고등학교 유학2년), `독일어`(B2)
 * 사용하는데도 안 느는 언어 - `영어`
@@ -12,6 +12,7 @@
 * 잘하고픈 언어 python, C, shell
 
 ## Platform
+* 가장 많이 하는 일 jetson board
 * 주 사용 스크립트 vscode, vim
 * 주 사용 플렛폼 ROS, PTC ThingWorx
 * 가끔씩 쓰는 플렛폼 Bazel, redis, node.js, flask, django, Unity 3D
