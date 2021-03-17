@@ -1,14 +1,30 @@
 # 일단 막 쓰기
 ## Languages
 
-### Tongue  
+### Tongues  
 * 주 사용 언어 - `한국어`
 * 배워놓고(=돈발라놓고) 안 쓰는 언어 - `중국어`(고등학교 유학2년), `독일어`(B2)
 * 사용하는데도 안 느는 언어 - `영어`
 
+### 회로설계
+* 아날로그 신호처리
+  * 회로, 소자 구성해서 OpAmp로 입력신호 튀겨서 보드로 넘기기
+* 시스템 전력, heat sink 처리
+* OrCAD
+* PADS
+
+### Board
+* 전공으로 많이 다룬 보드 Atmega128
+* 발만 담궈본 보드 STM32F*
+* 집에서 회사에서 가지고 노는 보드 Raspberry Pi
+* 1년짜리 정규 교육받은 보드 Nvidia jetson
+* 자율주행 과정으로 배워 본 인피니온 
+
 ### CS
+* 당장에 A부터 Z까지 상용화 가능한 언어 python, shell
 * 요즘 주 사용 언어 python, ros, c, bazel, shell
-* 배워보고픈 언어 (C, cython), Go, Javascript
+* 자꾸 개발 중 겹치는 언어 cython, Javascript
+* 배워보고픈 언어 cython, Go, Javascript
 * 잘하고픈 언어 python, C, shell
 
 ## Platform
