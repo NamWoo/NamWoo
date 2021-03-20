@@ -1,4 +1,12 @@
 # 일단 막 쓰기
+
+## 직무 & 직책 key word
+* Embedded Vision Machine Learning Engineer
+* IoT system Engineer
+* Edge computing 
+* Embedded System
+
+
 ## Languages
 
 ### Tongues  
