@@ -13,11 +13,14 @@
 
 ## 직무 & 직책 & 하고 있는 key words
 
+선행연구를 위한 선행연구를 위한 선행연구를 해야하는..(=개발잡부)
+
+* pilot study (선행연구)
 * Embedded Vision Machine Learning Engineer
 * IoT System Engineer
-* Edge Computing System
-* Embedded System
-* System Management
+* Edge Computing System Engineer
+* Embedded System Engineer
+* Linux System Management
 * [PTC IoT Engineer](https://cse.snu.ac.kr/sites/default/files/node--notice/PTC_Fast%20Facts.pdf)
 
 
