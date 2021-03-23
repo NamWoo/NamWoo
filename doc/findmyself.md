@@ -1,10 +1,24 @@
 # 일단 막 쓰기
 
-## 직무 & 직책 key word
+*전공이었으면서 현재 하고 있는 일과 겹치면서, 하고 싶고 또 잘 하고 싶은 일*
+
+> 아날로그 센서신호를 증폭하고 정제하는 회로를 설계하고 구성하고 제작하여 MCU로 보내주고
+* OpAmp, STM32, Circuit
+> MCU에서 받은 이러한 신호들를 상위 linux OS 단으로 보내면, linux에서 모으고 정제하고 정리(Sensor Fusion)해서
+* Ubuntu System, Shell 
+> Edge에서 스스로 판단하고 정의하고
+* Machine Learning, Camera Vision, ROS, SLAM, Mapping, Navigation, Multi-Robot Task Allocation
+> 결과를 클라우드로 보내게 하고 Edge들의 컨테이너를 오케스트레이션 운영.
+* Docker, Kubernetes, AWS, Azure, GCP
+
+## 직무 & 직책 & 하고 있는 key words
+
 * Embedded Vision Machine Learning Engineer
-* IoT system Engineer
-* Edge computing 
+* IoT System Engineer
+* Edge Computing System
 * Embedded System
+* System Management
+* [PTC IoT Engineer](https://cse.snu.ac.kr/sites/default/files/node--notice/PTC_Fast%20Facts.pdf)
 
 
 ## Languages
