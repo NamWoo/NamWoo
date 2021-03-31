@@ -1,23 +1,28 @@
 # 일단 막 쓰기
 
-## 지난 과정
+## 지난 이야기
 
-> 생체신호 데이터 직접 수집하고 정제해서 확률통계 모델 만들어서 유의미한 결과 만들어 내다가 
+> 생체신호 계측기를 회로설계하고 제작해서 수집하고 정제해서 확률통계 모델 만들어서 유의미한 결과 만들어 내다가
 * 2013-2014, Statistical learning, Clustering analysis, PCA, Matlab, C
 > 통계분석에서 자연스럽게 머신러닝으로 넘어가 speech-to-Text 모델 만들고 코딩하고, 캐글, 캐글 스터디도 기웃거리다가
->> ML모델에 대한 정확도가 올라가는 것에 비례해서 이유는 모르겠고 모르는 것은 더 많아지니
+* 2015, Kaggle 각종 커뮤니티 기웃기웃 
+> ML모델에 대한 정확도가 올라가는 것에 비례해서 이유는 모르겠고 모르는 것은 더 많아지니
 > 관심가는 국내 연구소, 대학, 오프라인 강의, Udacity, Cousera 온라인 강의는 싹다 들어보고 
-* Data Scientist, HPC(High Performance Computing), Machine Learning
-* 2015-2018, Certification, 자격증, 수료증, 한 50개 땄나? 
-> 2017, 2018 갑자기 뜨는 ML, DL 분야, 마구마구 시작하는 학생들이 늘어나니 
-> 조금 더 넓은 영역 또는 더 깊은 영역에서의 전문가가 되기 위해 Embedded Machine Learning 관련을 공부하고
+* 2015-2018, Data Scientist, HPC(High Performance Computing), Machine Learning, Certification, 자격-수료, 한 50개 땄나? 
+> 2018, 2019 갑자기 뜨는 ML, DL 분야에 붐이 일기 시작하니 
+> 조금 더 넓은 영역 또는 더 깊은 영역에서의 나만의 전문 영역을 구축하고 싶어 Embedded Machine Learni9ng 관련을 공부하고
 * 2019, NVIDIA 플랫폼 기반 자율주행차 구현을 위한 SW개발 및 실무프로젝트 과정 with 한컴MDS (2기, 6개월)
+* 모노카메라로 비쥬얼 오도메트리 자율주행 프로젝트(1등, 2019, 한컴MDS)
+* 자율주행 모형자동차 경진대회(2등, 2019, 현대자동차)
 
-***그리고 지금은, 지금까지 해온 일을 이것 저것 돌아가면서 하고 있는 나***
+
+***그리고 지금은, 소프트웨어 엔지니어로,지금까지 해온 일을 이것 저것 돌아가면서 하고 있는 나***
 
 
 
 ## 지금 내가 할 수 있는 일
+
+중구난방이니 가지치기 해놓기
 
 ### Engineer
 > 아날로그 센서신호를 증폭하고 정제하는 회로를 설계하고 구성하고 제작하여 MCU로 보내주고
@@ -104,5 +109,7 @@
 * 코틀린으로 안드로이드 앱, DB(AWS RDS), server(AWS EC2) (feat.흉내)
 
 ## 목표
-* 캐글 마스터 달고파
-* 제발 영어... 중국어랑 독일어는..?
+* ⚡ [캐글 마스터 달고파](https://www.kaggle.com/rankings)
+* 💬 제발 영어... 중국어랑 독일어는..?
+* 🌱 [대학원](https://omscs.gatech.edu/specialization-computational-perception-robotics)
+
