@@ -1,5 +1,8 @@
 # 일단 막 쓰기
 
+* [자격증 정리--](https://github.com/NamWoo/NamWoo/blob/master/doc/certification.md)
+
+
 ## 지난 이야기
 
 > 생체신호 계측기를 회로설계하고 제작해서 수집하고 정제해서 확률통계 모델 만들어서 유의미한 결과 만들어 내다가
