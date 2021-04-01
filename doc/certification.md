@@ -4,6 +4,9 @@
 
 그 이전도 해외 대학도 많이 있었지만 2010년 [KOCW](http://www.kocw.net/home/index.do)시범출시했을 때부터 국내껀 꾸준히 들었고 시간활용하고 싶었던 나한텐 너무 좋고 고마운 존재였다. 지금은 정말 많아졌고 국내 서적들도 너무 많아서 그저 행복할 뿐이지만.
 
+* https://www.udacity.com/
+* http://coursera.com/
+* https://www.udemy.com/
 * http://www.kocw.net/home/index.do
 * http://www.kmooc.kr/
 * https://www.edwith.org/
@@ -22,17 +25,6 @@ R은 뭐랄까..가장 먼저 해본거였고 C 하다가 해보니 간단하고
 ||||
 -->
 
-# 언어 
-## Coursera - Python For Everybody Specialization
-
-너무 재밌게 했었던, 현재는 척 교수님이 인기가 많아져서 네이버 edwith로 번역되어 넘어와 있고 자격증도 준다고 함
-
-<img src="https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg" width="50%" height="50%">|
-
-||||
-|:---:|:---:|:---:|
-|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera CBJUQ93DR7CZ](https://user-images.githubusercontent.com/8021479/113226565-7db59280-92cb-11eb-83bb-173a6ca4cfce.jpg)|
-|![Coursera NA54M489KAAG](https://user-images.githubusercontent.com/8021479/113226568-7db59280-92cb-11eb-902f-d696f4ec3f4e.jpg)|![Coursera P9ZU7BAGU2UR](https://user-images.githubusercontent.com/8021479/113226569-7e4e2900-92cb-11eb-8bde-4b74cf57bdbf.jpg)|![Coursera VNTDCG84HUEK](https://user-images.githubusercontent.com/8021479/113226570-7ee6bf80-92cb-11eb-9c13-8cfc82594ea6.jpg)|
 
 
 # 종합
@@ -41,14 +33,15 @@ R은 뭐랄까..가장 먼저 해본거였고 C 하다가 해보니 간단하고
 
 가장 길었고, 가장 비쌌던, 2학기 총 180만원 들었나?
 
-![Udacity-Data Scientist Nanodegree](https://user-images.githubusercontent.com/8021479/113226677-b2294e80-92cb-11eb-9a2b-e76c7e29fd52.jpg)
+<img src="https://user-images.githubusercontent.com/8021479/113226677-b2294e80-92cb-11eb-9a2b-e76c7e29fd52.jpg" width="50%" height="50%">|
 
 
 
 
 ## Coursera - Data Scientist Specialization
 
-하다 만거
+R 이라 하다가 만거
+* https://www.coursera.org/specializations/jhu-data-science
 
 ||||
 |:---:|:---:|:---:|
@@ -60,10 +53,12 @@ R은 뭐랄까..가장 먼저 해본거였고 C 하다가 해보니 간단하고
 
 ## Stanford Universe - Statistical Learning
 
-![StanfordUniv-StatisticalLearning](https://user-images.githubusercontent.com/8021479/113226673-b05f8b00-92cb-11eb-8f48-55f79ff38fc8.jpg)
+<img src="https://user-images.githubusercontent.com/8021479/113226673-b05f8b00-92cb-11eb-8f48-55f79ff38fc8.jpg" width="50%" height="50%">|
 
 ## Coursera - Mathmatics For Machine Learning Specialization
-![Coursera LDDRYA2XN6QR](https://user-images.githubusercontent.com/8021479/113226594-89a15480-92cb-11eb-9564-d5bbd6bee6c9.jpg)
+
+<img src="https://user-images.githubusercontent.com/8021479/113226594-89a15480-92cb-11eb-9564-d5bbd6bee6c9.jpg" width="50%" height="50%">|
+
 ||||
 |:---:|:---:|:---:|
 |![Coursera 7YHLN5C2Z8Y7](https://user-images.githubusercontent.com/8021479/113226544-6f677680-92cb-11eb-8835-9cb12dbb719e.jpg)|![Coursera TCEGYB8NYKBA](https://user-images.githubusercontent.com/8021479/113226545-7098a380-92cb-11eb-9f16-57786f0aa719.jpg)|![Coursera VY3MJDK3M5ZP](https://user-images.githubusercontent.com/8021479/113226547-71313a00-92cb-11eb-9d2e-c4d6cdc91154.jpg)|
@@ -72,12 +67,24 @@ R은 뭐랄까..가장 먼저 해본거였고 C 하다가 해보니 간단하고
 
 ## Coursera - Data Structures And Algorithms Specialization
 
-![Coursera XXE5WEB5JXSJ](https://user-images.githubusercontent.com/8021479/113226597-8b6b1800-92cb-11eb-8f40-2f59ec5b39b9.jpg)
+<img src="https://user-images.githubusercontent.com/8021479/113226597-8b6b1800-92cb-11eb-8f40-2f59ec5b39b9.jpg" width="50%" height="50%">|
+
 ||||
 |:---:|:---:|:---:|
 |![Coursera 94DAYHUFRFJ5](https://user-images.githubusercontent.com/8021479/113226514-61195a80-92cb-11eb-91b6-3f0c79af2ecf.jpg)|![Coursera LS3YCKLKTNUU](https://user-images.githubusercontent.com/8021479/113226515-61b1f100-92cb-11eb-98f1-c3ad64eb8453.jpg)|![Coursera QCX5M9NXT3SX](https://user-images.githubusercontent.com/8021479/113226516-624a8780-92cb-11eb-9c07-e9d67ba07f4e.jpg)|
 |![Coursera TKFKD7VD7QYB](https://user-images.githubusercontent.com/8021479/113226517-62e31e00-92cb-11eb-9b84-f6667f20ef81.jpg)|![Coursera ZBJCXDW5YKF9](https://user-images.githubusercontent.com/8021479/113226519-62e31e00-92cb-11eb-8f85-299828d53998.jpg)|![Coursera ZG8FCL4SWQNL](https://user-images.githubusercontent.com/8021479/113226520-637bb480-92cb-11eb-8fa4-bd94220e9aa8.jpg)|
 
+# 언어 
+## Coursera - Python For Everybody Specialization
+
+너무 재밌게 했었던, 현재는 척 교수님이 인기가 많아져서 네이버 edwith로 번역되어 넘어와 있고 자격증도 준다고 함
+
+<img src="https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg" width="50%" height="50%">|
+
+||||
+|:---:|:---:|:---:|
+|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera CBJUQ93DR7CZ](https://user-images.githubusercontent.com/8021479/113226565-7db59280-92cb-11eb-83bb-173a6ca4cfce.jpg)|
+|![Coursera NA54M489KAAG](https://user-images.githubusercontent.com/8021479/113226568-7db59280-92cb-11eb-902f-d696f4ec3f4e.jpg)|![Coursera P9ZU7BAGU2UR](https://user-images.githubusercontent.com/8021479/113226569-7e4e2900-92cb-11eb-8bde-4b74cf57bdbf.jpg)|![Coursera VNTDCG84HUEK](https://user-images.githubusercontent.com/8021479/113226570-7ee6bf80-92cb-11eb-9c13-8cfc82594ea6.jpg)|
 
 
 # 오프라인 강의
