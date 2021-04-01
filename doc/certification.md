@@ -16,12 +16,24 @@ R은 뭐랄까..가장 먼저 해본거였고 C 하다가 해보니 간단하고
 
 *Coursera-Python For Everybody*
 
-| <img src="https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg" width="50%" height="50%"> |<img src="https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg" width="50%" height="50%">|
-|:---:|:---:|
+|![Coursera RRVEWW7ZBAQW](https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg)|||
+|:---:|:---:|:---:|
+|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera B6XG4AHWYQUR](https://user-images.githubusercontent.com/8021479/113226563-7c846580-92cb-11eb-8d0f-0f311d534fc8.jpg)|![Coursera CBJUQ93DR7CZ](https://user-images.githubusercontent.com/8021479/113226565-7db59280-92cb-11eb-83bb-173a6ca4cfce.jpg)|
+|![Coursera NA54M489KAAG](https://user-images.githubusercontent.com/8021479/113226568-7db59280-92cb-11eb-902f-d696f4ec3f4e.jpg)|![Coursera P9ZU7BAGU2UR](https://user-images.githubusercontent.com/8021479/113226569-7e4e2900-92cb-11eb-8bde-4b74cf57bdbf.jpg)|![Coursera VNTDCG84HUEK](https://user-images.githubusercontent.com/8021479/113226570-7ee6bf80-92cb-11eb-9c13-8cfc82594ea6.jpg)|
+
+
+
+
+
+
 |||
+|:---:|:---:|
+|![Coursera AEP38DSMLTNZ](https://user-images.githubusercontent.com/8021479/113226477-4810a980-92cb-11eb-8feb-732b91c9d62e.jpg){: width="100%" height="100%"} |
 |||
 |||
 
+
+<img src="https://user-images.githubusercontent.com/8021479/113226596-8ad28180-92cb-11eb-8553-17aa784dc7bb.jpg" width="20%" height="20%">|
 
 ||||
 |:---:|:---:|:---:|
