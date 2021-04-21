@@ -8,6 +8,17 @@ I'm a `Embedded Machine Learning Engineer` working at ![EXIS](https://img.shield
 
 ![git](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamWoo%2Fhit-counter&count_bg=%23C83D3D&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false) ![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![ros](https://img.shields.io/badge/Ros-22314E?style=flat-square&logo=Ros&logoColor=white) ![shell](https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white) ![nvidia](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![pythorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white) ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=Udacity&logoColor=white) ![omniverseisaac](https://img.shields.io/badge/Omniverse%20Isaac-76B900?style=flat-square&logo=NVIDIA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20Studio%20Code&logoColor=white) ![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=Leetcode&logoColor=white) ![raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) 
 
+<!--
+* Python, C, C++, Shell
+* ROS, CMake, Bazel, Docker, Kubernetes, Git
+* Pytorch, Keras, Tensorflow
+* Cuda, TensorRT, Deepstream
+* Vim, Visual.Studio.Code
+* Unity, Omniverse Isaac
+* NVIDIA Drive & Jetson, Raspberry.Pi, STM32F*, Atmega*, ~Infineon~
+* Leetcode, Coursera, Udacity, Udemy
+Linux, git
+-->
 
 
 
