@@ -2,6 +2,7 @@
 
 * [자격증 정리--](https://github.com/NamWoo/NamWoo/blob/master/doc/certification.md)
 
+우라늄 같은 !?
 
 ## 지난 이야기
 
