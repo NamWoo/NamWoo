@@ -26,13 +26,11 @@
 * Kaggle 도 기웃거리다가
 
 
-|데이터 분석 관련 스터디, 모임, 행사란 행사는 다 가보기|
+||
 |:---:|
+|![image](https://user-images.githubusercontent.com/8021479/127515854-76106add-e171-4987-aa6b-7670ea09787f.png)|
 |![facebook-image](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/57277729_2635009589905563_8564848319384256512_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=b9115d&_nc_ohc=VicPmX8OjhAAX805-2V&_nc_ht=scontent-gmp1-1.xx&oh=459ea82e16ecd30c713412f75baeb100&oe=6126C2FE)|
-
-* 출처
-* [kaggle-korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/permalink/403069190425186/)
-* [databreak](https://github.com/KaggleBreak/databreak/tree/master/2019/meetup)
+|데이터 분석 관련 스터디, 모임, 행사란 행사는 다 가보기|
 
 
 > ML은 정확도가 올라가는 것에 비례해서 이유는 모르겠고 모르는 것은 더 많아지니
@@ -42,6 +40,11 @@
 * 2015-2018, Data Scientist, HPC(High Performance Computing), Machine Learning, Certification, 자격-수료, 한 50개 강의 듣고 땄나? 
 * 네이버 데이터사이언스 경진대회, 결선 33인 진출 (네이버 커넥트원 입소, 2019, 네이버)
 * [자격증 정리--](https://github.com/NamWoo/NamWoo/blob/master/doc/certification.md)
+
+||
+|:---:|
+|![KNW08775 ARW](https://user-images.githubusercontent.com/8021479/127514812-26523919-1724-4902-bb7e-b008985574b8.jpg)|
+|네이버 커텍트원에서|
 
 
 ## Embedded Machine Learning, Autonomous, Self-Driving-Car
@@ -55,9 +58,9 @@
 ||
 |:---:|
 |![KNW09544 ARW](https://user-images.githubusercontent.com/8021479/127513168-a5d95e4a-c527-4fee-8a54-c2f6cc2e3731.jpg)|
-|군집제어|
+|모노카메라로만 군집제어|
 |![KNW00409 ARW](https://user-images.githubusercontent.com/8021479/127513160-d538adfb-875d-408f-982c-7d70ead3a645.jpg)|
-|자율주행 모형차|
+|자율주행 모형차 결승날|
 
 
 
