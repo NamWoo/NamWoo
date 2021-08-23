@@ -7,7 +7,7 @@
 ## 통계학습 - Statistical Learning
 
 > 생체신호 계측기를 회로설계하고 제작해서 수집하고 정제해서 확률통계 모델 만들어서 유의미한 결과 만들어 내다가
-* 의용전자공학 전공, 의료공학, 회로설계, 생체신호 분석, 시계열 분석, 의료전자시스템 개발
+* 연세대학교 의용전자공학 전공, 의료공학, 회로설계, 생체신호 분석, 시계열 분석, 의료전자시스템 개발
 * 졸업논문, *심전도로 개인 식별하는 알고리즘 개발, Statistical learning, Clustering analysis, PCA, Matlab, C* 
 
 |ECG 분석 , Pan–Tompkins algorithm|
@@ -67,8 +67,31 @@
 ***그리고 지금은, 소프트웨어 엔지니어로, 지금까지 해온 일들을 섞어서 이것 저것 하고 있는 나***
 
 
+# 현재는?
 
-# 지금 내가 할 수 있는 일
+<!-- 물류자동화, 물류컨설팅 회사인 ![EXIS](https://img.shields.io/badge/-EXIS%20SOFTWARE%20ENGINEERING-green?style=flat-square&logoColor=white) 에 입사하여 AI Team 에서 연구원으로 일하고 있다 -->
+
+## 지난 프로젝트
+
+1. GPU가 들어있는 임베디드 보드로 멀티카메라에서 객체감지 그리고 추적시스템
+2. 데이터분석 (물류창고 데이터)
+3. PTC 
+4. AMR 개발 (하드웨어)
+
+## 진행중인 프로젝트
+
+1. AMR 개발 (소프트웨어, ROS기반)
+2. 현실과 가상 CPS 시스템 개발 (NVIDIA Omniverse, Isaac Sim)
+
+
+
+---
+---
+
+---
+
+
+## 지금 내가 할 수 있는 일
 
 중구난방이니 가지치기 해놓기
 
