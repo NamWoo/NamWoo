@@ -12,9 +12,13 @@
 
 |ECG 분석 , Pan–Tompkins algorithm|
 |:---:|
-|![qrs](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SinusRhythmLabels.svg/330px-SinusRhythmLabels.svg.png)|
 |![pan-tampkin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ECGrita.svg/1920px-ECGrita.svg.png)|
+|![Picture1](https://user-images.githubusercontent.com/8021479/134757357-085d0ac6-58a7-4780-b8a6-731ea16eb3fa.jpg)|
 
+첫 번째 그림처럼 각 사람의 심전도를 통계분석해서 특징을 찾고나면 두 번째 그림처럼 각 사람마다 구별이 가능하다. 즉, 생체신호인 심전도만으로 개개인을 구별할 수 있어서 홍체, 지문, 걸음걸이로 구별하는 보안, 인지에 활용이 가능하다.
+
+
+<!-- |![qrs](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SinusRhythmLabels.svg/330px-SinusRhythmLabels.svg.png)| -->
 
 ## 기계학습 - Machine Learning
 
@@ -58,7 +62,7 @@
 ||
 |:---:|
 |![KNW09544 ARW](https://user-images.githubusercontent.com/8021479/127513168-a5d95e4a-c527-4fee-8a54-c2f6cc2e3731.jpg)|
-|모노카메라로만 군집제어|
+|모노카메라로만 군집제어 [영상링크](https://youtu.be/8st7E7VzmOo)|
 |![KNW00409 ARW](https://user-images.githubusercontent.com/8021479/127513160-d538adfb-875d-408f-982c-7d70ead3a645.jpg)|
 |자율주행 모형차 결승날|
 
