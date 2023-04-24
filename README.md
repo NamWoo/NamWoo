@@ -54,8 +54,8 @@ Linux, git
 |              |skill                |~2022     |2023|
 |:---:|:---:|:---|:---|
 |robot           |ros                |\*\*\*\*\*|go expert|
-|Simulator       |omniverse isaac sim/gym|\*\*\*\*\*|go expert|
-|embedded board  |nvidia jetson board control|\*\*\*\*\*\*|    |
+|Simulator       |sim/gym            |\*\*\*\*\*|go expert|
+|embedded board  |nvidia jetson, etc.|\*\*\*\*\*\*|    |
 
 
 >다 쳐내고 다 버리고 나, 사랑하는 사람, 그리고 내가 원하는 단 한가지에만 집중하자
