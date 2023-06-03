@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-I'm a `Embedded Machine Learning Engineer` working at ![EXIS](https://img.shields.io/badge/-EXIS%20SOFTWARE%20ENGINEERING-green?style=flat-square&logoColor=white) and ![EXIS](https://img.shields.io/badge/-Pollux-blue?style=flat-square&logoColor=white) , I want to know everything in the world😄.
+I'm a `Embedded Machine Learning Engineer` <!-- working at ![EXIS](https://img.shields.io/badge/-EXIS%20SOFTWARE%20ENGINEERING-green?style=flat-square&logoColor=white) and ![EXIS](https://img.shields.io/badge/-Pollux-blue?style=flat-square&logoColor=white) -->, I want to know everything in the world😄.
 
 * `가상`과 `현실`을 오가는 `Digital Twin` 환경에서 `컴퓨터비전`, `센서퓨전`, `머신러닝` 과 같은 키워드로 소프트웨어를 개발하며 선행연구 하고 있습니다.
 * 요즘 주 관심사는 `가상환경 simulator`, `다중카메라에서의 인지와 판단`, `다중로봇에 대한 할당과 제어` 입니다.
