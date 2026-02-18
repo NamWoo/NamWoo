@@ -1,14 +1,14 @@
 
 * Goals for 2019: *Steadily, One Step at a Time*
 * Goals for 2020: *Begin and Take It Slow*
-* [Goals for 2021](#🌟-goals-for-2021-find-myself): *Find Myself*
-* [Goals for 2022](#🌟-goals-for-2022-deep-dive): *Deep Dive!*
-* [Goals for 2023](#🌟-goals-for-2023-say-no): *Say No!*
-* Goals for 2024: *Speak Loudly!*
+* [Goals for 2021: *Find Myself*](#🌟-goals-for-2021-find-myself)
+* [Goals for 2022: *Deep Dive!*](#🌟-goals-for-2022-deep-dive)
+* [Goals for 2023: *Say No!*](#🌟-goals-for-2023-say-no)
+* [Goals for 2024: *Speak Loudly!*](#🌟-goals-for-2024-speak-loudly)
+* Goals for 2025: *Do What You Do Best!*
+* Goals for 2026: *Now, Let’s Run.*
 
 # Goals and Reflections
-
----
 
 ## 🌟 Goals for 2021: *Find Myself*
 ### Exploring the "T" in Talent
@@ -23,9 +23,7 @@
 
 >2020년에는 `ㅡ` 부분이나 `I`도 모두 내가 생각하고 내가 어떻게 가져가야할지 목표를 잡았지만 일을 하고 더 고민을 하다보면서 느낀건 `T` 자형에 대한 고민을 내가 하면 안되고 회사가 또는 오너가 잡은 목표에 `I`를 잡아야하고 주변에서 오는 들어오는 프로젝트에 대해 `ㅡ`를 잡아야 한다는 것을 느낀 해인것 같다. 결국 내가 내 스스로의 기준을 세우기보단 나를 없애고 줄이고 맞춰나가기 위해 오히려 내가 목표한 바와 반대로 되어진것 같고 맞고 틀리고 정답이고 오답이고를 떠나서 그렇게 또 한해가 흘러간 것 같다.
 >여전히 둥실둥실 떠다니며 표류하는 부유물 같은, 그렇고 그런 나였던거 같다.
-
----
-
+  
 ## 🌟 Goals for 2022: *Deep Dive!*
 ### Embracing Specialization within Generalization
 - **Skill Status:** Transitioning from a generalist to a **specialized generalist**.
@@ -67,4 +65,24 @@
 - **A Year of Many Challenges:** 2023 was a tumultuous year, both professionally and personally. Faced unexpected personal challenges and overcame continuous obstacles, yet here I am, having managed well.
 - **One Step at a Time:** Acknowledging my achievements and realizing that focusing on one issue at a time is the key to progress.
 
----
+## 🌟 Goals for 2024: *Speak Loudly!*
+
+### *Speak Loudly!*
+
+- **Self-Worth and Confidence:** I am worthy and deserving of my position. It's time to speak my mind without excessive filtering, proudly and confidently, acknowledging my hard work and accomplishments.
+- **Skill Set:**
+  1. **Public Speaking:** Enhancing my ability to communicate ideas clearly and confidently in public settings.
+  2. **Assertive Communication:** Developing skills to express my thoughts and opinions strongly and respectfully.
+  3. **Leadership:** Fostering leadership skills that emphasize confidence and decision-making.
+
+
+### status
+
+
+|                |        skill        | ~2023        | 2024           |
+| :------------: | :-----------------: | :----------- | :------------- |
+|     Unity      |      DOTS, ECS      | \*           | go expert      |
+|   Simulator    |       Sim/Gym       | \*\*\*\*\*   | go expert      |
+| Embedded board | nvidia jetson, etc. | \*\*\*\*\*\* | \*\*\*\*\*\*\* |
+|     Robot      |      ROS, SLAM      | \*\*\*\*\*   | \*\*\*\*\*\*\* |
+
